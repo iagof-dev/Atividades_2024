@@ -1,0 +1,7 @@
+1- Teste de caixa preta é um metodo de testar funcionalidades como um usuário ira utiliza-lo
+2- Teste de Caixa Branca é um metodo de testar funcionalidades com acesso ao código fonte
+3- Teste de caixa Cinza é um metodo de testar funcionalidades que alem de testar terá como ver onde está o erro
+e podendo arrumar
+4-
+A).gov.br
+B)Google

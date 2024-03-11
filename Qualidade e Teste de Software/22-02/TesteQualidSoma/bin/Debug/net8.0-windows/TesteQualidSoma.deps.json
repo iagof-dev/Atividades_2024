@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TesteQualidSoma/1.0.0": {
+        "runtime": {
+          "TesteQualidSoma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteQualidSoma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
