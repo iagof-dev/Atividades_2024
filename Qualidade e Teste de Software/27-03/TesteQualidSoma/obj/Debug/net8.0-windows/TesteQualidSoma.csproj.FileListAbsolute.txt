@@ -1,0 +1,32 @@
+E:\Arquivos\Escola\2024\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\TesteQualidSoma.Form1.resources
+E:\Arquivos\Escola\2024\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\TesteQualidSoma.csproj.GenerateResource.cache
+E:\Arquivos\Escola\2024\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\TesteQualidSoma.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquivos\Escola\2024\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\TesteQualidSoma.AssemblyInfoInputs.cache
+E:\Arquivos\Escola\2024\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\TesteQualidSoma.AssemblyInfo.cs
+E:\Arquivos\Escola\2024\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\TesteQualidSoma.csproj.CoreCompileInputs.cache
+E:\Arquivos\Escola\2024\Qualidade e Teste de Software\22-02\TesteQualidSoma\bin\Debug\net8.0-windows\TesteQualidSoma.exe
+E:\Arquivos\Escola\2024\Qualidade e Teste de Software\22-02\TesteQualidSoma\bin\Debug\net8.0-windows\TesteQualidSoma.deps.json
+E:\Arquivos\Escola\2024\Qualidade e Teste de Software\22-02\TesteQualidSoma\bin\Debug\net8.0-windows\TesteQualidSoma.runtimeconfig.json
+E:\Arquivos\Escola\2024\Qualidade e Teste de Software\22-02\TesteQualidSoma\bin\Debug\net8.0-windows\TesteQualidSoma.dll
+E:\Arquivos\Escola\2024\Qualidade e Teste de Software\22-02\TesteQualidSoma\bin\Debug\net8.0-windows\TesteQualidSoma.pdb
+E:\Arquivos\Escola\2024\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\TesteQualidSoma.dll
+E:\Arquivos\Escola\2024\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\refint\TesteQualidSoma.dll
+E:\Arquivos\Escola\2024\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\TesteQualidSoma.pdb
+E:\Arquivos\Escola\2024\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\TesteQualidSoma.genruntimeconfig.cache
+E:\Arquivos\Escola\2024\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\ref\TesteQualidSoma.dll
+D:\Iago 3° D.S\iagof-dev Atividades_2024 main Qualidade20Teste20Software-22-02_TesteQualidSoma\Qualidade e Teste de Software\22-02\TesteQualidSoma\bin\Debug\net8.0-windows\TesteQualidSoma.exe
+D:\Iago 3° D.S\iagof-dev Atividades_2024 main Qualidade20Teste20Software-22-02_TesteQualidSoma\Qualidade e Teste de Software\22-02\TesteQualidSoma\bin\Debug\net8.0-windows\TesteQualidSoma.deps.json
+D:\Iago 3° D.S\iagof-dev Atividades_2024 main Qualidade20Teste20Software-22-02_TesteQualidSoma\Qualidade e Teste de Software\22-02\TesteQualidSoma\bin\Debug\net8.0-windows\TesteQualidSoma.runtimeconfig.json
+D:\Iago 3° D.S\iagof-dev Atividades_2024 main Qualidade20Teste20Software-22-02_TesteQualidSoma\Qualidade e Teste de Software\22-02\TesteQualidSoma\bin\Debug\net8.0-windows\TesteQualidSoma.dll
+D:\Iago 3° D.S\iagof-dev Atividades_2024 main Qualidade20Teste20Software-22-02_TesteQualidSoma\Qualidade e Teste de Software\22-02\TesteQualidSoma\bin\Debug\net8.0-windows\TesteQualidSoma.pdb
+D:\Iago 3° D.S\iagof-dev Atividades_2024 main Qualidade20Teste20Software-22-02_TesteQualidSoma\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\TesteQualidSoma.Form1.resources
+D:\Iago 3° D.S\iagof-dev Atividades_2024 main Qualidade20Teste20Software-22-02_TesteQualidSoma\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\TesteQualidSoma.csproj.GenerateResource.cache
+D:\Iago 3° D.S\iagof-dev Atividades_2024 main Qualidade20Teste20Software-22-02_TesteQualidSoma\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\TesteQualidSoma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iago 3° D.S\iagof-dev Atividades_2024 main Qualidade20Teste20Software-22-02_TesteQualidSoma\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\TesteQualidSoma.AssemblyInfoInputs.cache
+D:\Iago 3° D.S\iagof-dev Atividades_2024 main Qualidade20Teste20Software-22-02_TesteQualidSoma\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\TesteQualidSoma.AssemblyInfo.cs
+D:\Iago 3° D.S\iagof-dev Atividades_2024 main Qualidade20Teste20Software-22-02_TesteQualidSoma\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\TesteQualidSoma.csproj.CoreCompileInputs.cache
+D:\Iago 3° D.S\iagof-dev Atividades_2024 main Qualidade20Teste20Software-22-02_TesteQualidSoma\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\TesteQualidSoma.dll
+D:\Iago 3° D.S\iagof-dev Atividades_2024 main Qualidade20Teste20Software-22-02_TesteQualidSoma\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\refint\TesteQualidSoma.dll
+D:\Iago 3° D.S\iagof-dev Atividades_2024 main Qualidade20Teste20Software-22-02_TesteQualidSoma\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\TesteQualidSoma.pdb
+D:\Iago 3° D.S\iagof-dev Atividades_2024 main Qualidade20Teste20Software-22-02_TesteQualidSoma\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\TesteQualidSoma.genruntimeconfig.cache
+D:\Iago 3° D.S\iagof-dev Atividades_2024 main Qualidade20Teste20Software-22-02_TesteQualidSoma\Qualidade e Teste de Software\22-02\TesteQualidSoma\obj\Debug\net8.0-windows\ref\TesteQualidSoma.dll
